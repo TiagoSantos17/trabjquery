@@ -8,7 +8,7 @@
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>	
 	<script src="trab_efeitos1.js"></script>
 </head>
-<body style="background-color:#ffcc66; font-family:comic sans MS";>
+<body style="background-color:#fff; font-family:comic sans MS";>
 <style type="text/css">
 	#myProgress {style:width: 80%; align:center; margin-left: 134px;}
 	#feedback { font-size: 1.4em;}

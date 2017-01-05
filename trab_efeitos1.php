@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>Super Quiz super bueda bacano memo!</title>
+	<title></title>
 	<script src="jquery-3.1.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>	

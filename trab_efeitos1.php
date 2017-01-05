@@ -17,6 +17,9 @@
 	#selectable {list-style-type: none; margin: 0; padding: 0; width: 60%;}
 	#selectable li {margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px;}
 </style>
+	
+	
+	<!-- LALALSKAL o miniking amhdjahjshdj-->
 <div>
 	<h1 align="center" id="titulo" style="font-family: cooper black"><font size="20">Super Quiz</font></h1>
 </div>
